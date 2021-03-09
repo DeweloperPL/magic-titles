@@ -1,0 +1,4 @@
+Jeżeli chcesz, możesz edytować ten kod.
+Jednak nie wsadzaj go nigdzie indziej bez mojej zgody.
+Jeżeli chcesz taką zgodę napisz maila tutaj : devstudiopl@gmail.com
+wersja pythona : 3.7
